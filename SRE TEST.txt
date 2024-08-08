@@ -1,0 +1,3 @@
+Reliability - Its is probability that system will produce correct output upto sime given time.Its the ability of performing consistantly.
+
+Reliability if the application is based on System availability,accuracy,data integrity and security and consistant performance.
